@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="placesE">
+        <item>Vanessa Velez</item>
+        <item>Dora Giraldo</item>
+        <item>Brandon Benitez</item>
+        <item>Eddy Leon</item>
+        <item>Elga Brown</item>
+        <item>Mark White</item>
+    </string-array>
+    <string-array name="place_descE">
+        <item>Mon: 7-2  | Tues: 7-2  | Wed: 7-2 |
+            Thurs: 7-2  | Fri: 7-2</item>
+        <item>Mon: 7-2  | Tues: 7-2  | Wed: 7-2 |
+            Thurs: 7-2  | Fri: 7-2</item>
+        <item>Mon: 7-2  | Tues: 7-2  | Wed: 7-2 |
+            Thurs: 7-2  | Fri: 7-2</item>
+        <item>Mon: 7-2  | Tues: 7-2  | Wed: 7-2 |
+            Thurs: 7-2  | Fri: 7-2</item>
+        <item>Mon: 7-2  | Tues: 7-2  | Wed: 7-2 |
+            Thurs: 7-2  | Fri: 7-2</item>
+        <item>Mon: 7-2  | Tues: 7-2  | Wed: 7-2 |
+            Thurs: 7-2  | Fri: 7-2</item>
+    </string-array>
+
+    <string-array name="placesM">
+        <item>Yurisan Cordero</item>
+        <item>Guillermo Duran</item>
+        <item>Dayan Lee</item>
+        <item>Mario Mars</item>
+        <item>Kristen Patt</item>
+        <item>Hugh Jackman</item>
+    </string-array>
+    <string-array name="place_descM">
+        <item>Mon: 7-2  | Tues: 7-2  | Wed: 7-2 |
+            Thurs: 7-2  | Fri: 7-2</item>
+        <item>Mon: 7-2  | Tues: 7-2  | Wed: 7-2 |
+            Thurs: 7-2  | Fri: 7-2</item>
+        <item>Mon: 7-2  | Tues: 7-2  | Wed: 7-2 |
+            Thurs: 7-2  | Fri: 7-2</item>
+        <item>Mon: 7-2  | Tues: 7-2  | Wed: 7-2 |
+            Thurs: 7-2  | Fri: 7-2</item>
+        <item>Mon: 7-2  | Tues: 7-2  | Wed: 7-2 |
+            Thurs: 7-2  | Fri: 7-2</item>
+        <item>Mon: 7-2  | Tues: 7-2  | Wed: 7-2 |
+            Thurs: 7-2  | Fri: 7-2</item>
+    </string-array>
+
+    <string-array name="placesB">
+        <item>Brandon Lee</item>
+        <item>Ron Rust</item>
+        <item>Matilda Baez</item>
+        <item>Patricia King</item>
+        <item>Yulissa Cordero</item>
+        <item>Demian Stuart</item>
+    </string-array>
+    <string-array name="place_descB">
+        <item>Mon: 7-2  | Tues: 7-2  | Wed: 7-2 |
+            Thurs: 7-2  | Fri: 7-2</item>
+        <item>Mon: 7-2  | Tues: 7-2  | Wed: 7-2 |
+            Thurs: 7-2  | Fri: 7-2</item>
+        <item>Mon: 7-2  | Tues: 7-2  | Wed: 7-2 |
+            Thurs: 7-2  | Fri: 7-2</item>
+        <item>Mon: 7-2  | Tues: 7-2  | Wed: 7-2 |
+            Thurs: 7-2  | Fri: 7-2</item>
+        <item>Mon: 7-2  | Tues: 7-2  | Wed: 7-2 |
+            Thurs: 7-2  | Fri: 7-2</item>
+        <item>Mon: 7-2  | Tues: 7-2  | Wed: 7-2 |
+            Thurs: 7-2  | Fri: 7-2</item>
+    </string-array>
+
+    <string-array name="place_details">
+        <item>C for Enginners, C++, Java Advanced, PHP, SQL</item>
+        <item>C for Enginners, C++, Java Advanced, PHP, SQL</item>
+        <item>C for Enginners, C++, Java Advanced, PHP, SQL</item>
+        <item>C for Enginners, C++, Java Advanced, PHP, SQL</item>
+        <item>C for Enginners, C++, Java Advanced, PHP, SQL</item>
+        <item>C for Enginners, C++, Java Advanced, PHP, SQL</item>
+
+    </string-array>
+    <string-array name="place_locations">
+        <item>tutor1@mdc.edu</item>
+        <item>tutor2@mdc.edu</item>
+        <item>tutor3@mdc.edu</item>
+        <item>tutor4@mdc.edu</item>
+        <item>tutor5@mdc.edu</item>
+        <item>tutor6@mdc.edu</item>
+    </string-array>
+
+    <string-array name="place_phones">
+        <item>305-237-7006</item>
+        <item>305-237-7006</item>
+        <item>305-237-7006</item>
+        <item>305-237-7006</item>
+        <item>305-237-7006</item>
+        <item>305-237-7006</item>
+    </string-array>
+
+    <array name="place_avatorE">
+        <item>@drawable/tutor1</item>
+        <item>@drawable/tutor2</item>
+        <item>@drawable/tutor3</item>
+        <item>@drawable/tutor4</item>
+        <item>@drawable/tutor5</item>
+        <item>@drawable/tutor6</item>
+    </array>
+    <array name="places_pictureE">
+        <item>@drawable/tutor1</item>
+        <item>@drawable/tutor2</item>
+        <item>@drawable/tutor3</item>
+        <item>@drawable/tutor4</item>
+        <item>@drawable/tutor5</item>
+        <item>@drawable/tutor6</item>
+    </array>
+
+    <array name="place_avatorM">
+        <item>@drawable/tutor7</item>
+        <item>@drawable/tutor8</item>
+        <item>@drawable/tutor9</item>
+        <item>@drawable/tutor10</item>
+        <item>@drawable/tutor11</item>
+        <item>@drawable/tutor12</item>
+    </array>
+    <array name="places_pictureM">
+        <item>@drawable/tutor7</item>
+        <item>@drawable/tutor8</item>
+        <item>@drawable/tutor9</item>
+        <item>@drawable/tutor10</item>
+        <item>@drawable/tutor11</item>
+        <item>@drawable/tutor12</item>
+    </array>
+
+    <array name="place_avatorB">
+        <item>@drawable/tutor13</item>
+        <item>@drawable/tutor14</item>
+        <item>@drawable/tutor15</item>
+        <item>@drawable/tutor16</item>
+        <item>@drawable/tutor17</item>
+        <item>@drawable/tutor18</item>
+    </array>
+    <array name="places_pictureB">
+        <item>@drawable/tutor13</item>
+        <item>@drawable/tutor14</item>
+        <item>@drawable/tutor15</item>
+        <item>@drawable/tutor16</item>
+        <item>@drawable/tutor17</item>
+        <item>@drawable/tutor18</item>
+    </array>
+
+</resources>
